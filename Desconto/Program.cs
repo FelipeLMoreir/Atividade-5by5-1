@@ -14,6 +14,8 @@ switch (Pagamento)
     case 2:
         Console.WriteLine($"O valor do produto é {valorProduto}");
         break;
+    default: 
+        break;
 }
     
 
