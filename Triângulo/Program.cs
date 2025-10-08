@@ -27,3 +27,6 @@ else
     return;
 }
 
+Console.WriteLine("Pressione qualquer tecla para sair...");
+Console.ReadKey();
+
